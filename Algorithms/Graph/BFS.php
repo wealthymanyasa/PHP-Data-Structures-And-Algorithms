@@ -1,8 +1,6 @@
 <?php
 
 /*
- * Author: Mizanur rahman <mizanur.rahman@gmail.com>
- * 
  */
 
 function BFS(array &$graph, int $start, array $visited): SplQueue {
